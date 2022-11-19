@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-chapter2 alien branch 
-=======
 chapter2 hello branch
->>>>>>> hello
